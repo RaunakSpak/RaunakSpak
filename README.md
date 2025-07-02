@@ -48,7 +48,7 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-RaunakV-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raunakv)  
+[![LinkedIn](https://img.shields.io/badge/-RaunakV-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)  
 [![Portfolio](https://img.shields.io/badge/-My%20Website-000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com) <!-- replace if you have one -->
 [![Email](https://img.shields.io/badge/-raunak@spakcomm.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raunak@spakcomm.com)
 
