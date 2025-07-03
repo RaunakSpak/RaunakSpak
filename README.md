@@ -13,7 +13,7 @@
 - 🌱 Exploring **AI, NLP**, and **prompt engineering**
 - 🛠️ Proficient in: `JavaScript`, `Python`, `SQL`, `Node.js`, `React`, `Bootstrap`, `Express`
 - 💬 Ask me about: **backend systems**, **API integration**, or **clean UI building**
-- 📫 Reach me at: [raunak@spakcomm.com](mailto:raunak@spakcomm.com)
+- 📫 Reach me at: [raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)
 - ⚡ Fun Fact: I treat **code** like a canvas. Every function, a stroke of creativity 🎨
 
 ---
