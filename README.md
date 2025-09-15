@@ -2,7 +2,7 @@
 <h3 align="center">Crafting tech solutions with precision, creativity, and care.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Explorer;Open+Source+Contributor;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Explorer;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 ### 💡 About Me
 
 - 🔭 Currently working on **intelligent systems & modern web apps**
-- 🌱 Exploring **AI, NLP**, and **prompt engineering**
 - 🛠️ Proficient in: `JavaScript`, `Python`, `SQL`, `Node.js`, `React`, `Bootstrap`, `Express`
 - 💬 Ask me about: **backend systems**, **API integration**, or **clean UI building**
 - 📫 Reach me at: [raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)
