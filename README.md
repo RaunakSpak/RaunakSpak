@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bootstrap,react,nodejs,express,mysql,postgres,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔒 **SecureLogin** | Authentication system with OTP, bcrypt, and JWT | `Node.js`, `MongoDB` |
-| 🧠 **PromptGPT Tools** | Experiments in prompt tuning and AI agents | `Python`, `LangChain`, `OpenAI` |
+| 🧠 **PromptGPT Tools** | Experiments in prompt tuning and AI agents | `Python`, `Claude`, `OpenAI` |
 | 📊 **DashboardPro** | Interactive dashboard with user metrics and visualizations | `React`, `Chart.js`, `Express` |
 | 💼 **PortfolioX** | Personal portfolio site with animations and case studies | `HTML`, `CSS`, `Bootstrap` |
 
@@ -39,8 +39,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raunak-Vishwakarma&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Vishwakarma&layout=compact&theme=github_dark" height="180" />
 </p>
 
 ---
