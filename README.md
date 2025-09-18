@@ -39,11 +39,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark&langs_count=5" height="180" />
-</p>
-
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakSpak&theme=github_dark" />
 </p>
 
