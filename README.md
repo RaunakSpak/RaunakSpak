@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&count_private=true&hide=issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunakVishwakarma&show_icons=true&theme=github_dark&count_private=true&hide=issues" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark&langs_count=8" height="180" />
 </p>
 
