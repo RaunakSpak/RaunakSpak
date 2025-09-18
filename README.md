@@ -39,12 +39,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raunak-Vishwakarma&show_icons=true&theme=github_dark&count_private=true&hide=issues,prs&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Vishwakarma&layout=compact&theme=github_dark&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&count_private=true&hide=issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raunak-Vishwakarma&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakSpak&theme=github_dark" />
 </p>
 
 ---
