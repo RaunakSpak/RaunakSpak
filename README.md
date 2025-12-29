@@ -77,6 +77,3 @@ Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused 
 </p>
 
 ---
-
-⭐️ **Curious by nature. Consistent by habit.  
-Let’s build products people love to use.**
