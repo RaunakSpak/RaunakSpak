@@ -1,42 +1,60 @@
 <h1 align="center">Hi 👋, I'm Raunak V</h1>
-<h3 align="center">Crafting tech solutions with precision, creativity, and care.</h3>
+<h3 align="center">
+Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused digital products
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Explorer;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Full-Stack+Engineer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%26+Building" 
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-- 🔭 Currently working on **intelligent systems & modern web apps**
-- 🛠️ Proficient in: `JavaScript`, `TypeScript`, `SQL`, `Node.js`, `React`, `Bootstrap`, `Express`, `MongoDB`
-- 💬 Ask me about: **backend systems**, **API integration**, or **clean UI building**
-- 📫 Reach me at: [raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)
-- ⚡ Fun Fact: I treat **code** like a canvas. Every function, a stroke of creativity 🎨
+- 🔭 Building **modern web apps, dashboards & real-world products**
+- 🧠 Strong focus on **clean UI, scalable architecture & performance**
+- 🛠️ Tech I work with daily:
+  `JavaScript`, `TypeScript`, `React`, `Node.js`, `Express`, `MongoDB`, `SQL`
+- 💬 Ask me about **Frontend architecture, APIs, authentication & UI polish**
+- 📫 Reach me at **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
+- ⚡ Fun fact: I treat **code like design** — clarity matters as much as logic 🎨
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔒 **SecureLogin** | Authentication system with OTP, bcrypt, and JWT | `Node.js`, `MongoDB` |
-| 🧠 **PromptGPT Tools** | Experiments in prompt tuning and AI agents | `Python`, `Claude`, `OpenAI` |
-| 📊 **DashboardPro** | Interactive dashboard with user metrics and visualizations | `React`, `Chart.js`, `Express` |
-| 💼 **PortfolioX** | Personal portfolio site with animations and case studies | `HTML`, `CSS`, `Bootstrap` |
+| Project | What it Does | Tech |
+|-------|--------------|------|
+| 🔐 **SecureLogin** | Complete auth system with OTP, JWT & role-based access | Node.js, MongoDB |
+| 🤖 **PromptGPT Tools** | AI prompt experiments & agent workflows | Python, OpenAI |
+| 📊 **DashboardPro** | Analytics dashboard with charts & real-time metrics | React, Chart.js |
+| 🌐 **PortfolioX** | Responsive portfolio with animations & clean UX | HTML, CSS, Bootstrap |
+
+> 📌 *Pinned repositories showcase production-ready code and best practices.*
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakSpak&theme=github_dark" />
@@ -44,12 +62,21 @@
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-RaunakV-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)  
-[![Portfolio](https://img.shields.io/badge/-My%20Website-000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com) <!-- replace if you have one -->
-[![Email](https://img.shields.io/badge/-raunakvishwakarma2975941@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raunakvishwakarma2975941@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/raunak-vish" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Raunak%20V-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:raunakvishwakarma2975941@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐️ *Inspired by curiosity. Driven by purpose. Let's build something great.*
+⭐️ **Curious by nature. Consistent by habit.  
+Let’s build products people love to use.**
