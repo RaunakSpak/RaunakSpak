@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raunak V</h1>
 <h3 align="center">
-Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused digital products
+Frontend-leaning Full-Stack Developer crafting scalable, clean & user-focused digital products
 </h3>
 
 <p align="center">
@@ -20,9 +20,9 @@ Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused 
 
 - 🔭 Building **modern web apps, dashboards & real-world products**
 - 🧠 Strong focus on **clean UI, scalable architecture & performance**
-- 🛠️ Tech I work with daily:
-  `JavaScript`, `TypeScript`, `React`, `Node.js`, `Express`, `MongoDB`, `SQL`
-- 💬 Ask me about **Frontend architecture, APIs, authentication & UI polish**
+- 🛠️ Tech I work with daily:  
+  `JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB` · `SQL`
+- 💬 Ask me about **frontend architecture, APIs, authentication & UI polish**
 - 📫 Reach me at **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
 - ⚡ Fun fact: I treat **code like design** — clarity matters as much as logic 🎨
 
@@ -38,23 +38,18 @@ Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused 
 
 ## 📂 Featured Projects
 
-| Project | What it Does | Tech |
-|-------|--------------|------|
-| 🔐 **SecureLogin** | Complete auth system with OTP, JWT & role-based access | Node.js, MongoDB |
+| Project | Description | Tech |
+|-------|-------------|------|
+| 🔐 **SecureLogin** | Auth system with OTP, JWT & role-based access | Node.js, MongoDB |
 | 🤖 **PromptGPT Tools** | AI prompt experiments & agent workflows | Python, OpenAI |
-| 📊 **DashboardPro** | Analytics dashboard with charts & real-time metrics | React, Chart.js |
+| 📊 **DashboardPro** | Analytics dashboard with charts & live metrics | React, Chart.js |
 | 🌐 **PortfolioX** | Responsive portfolio with animations & clean UX | HTML, CSS, Bootstrap |
 
-> 📌 *Pinned repositories showcase production-ready code and best practices.*
+> 📌 *Pinned repositories highlight production-ready projects and best practices.*
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+## 📈 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakSpak&theme=github_dark" />
@@ -76,4 +71,4 @@ Frontend–leaning Full-Stack Developer crafting scalable, clean & user-focused 
   </a>
 </p>
 
----
+---  
