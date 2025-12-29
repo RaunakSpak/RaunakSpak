@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunak V</h1>
 
 <h3 align="center">
-Frontend-leaning Full-Stack Developer building scalable, clean & user-centric digital products
+Frontend-leaning Full-Stack Developer building scalable, clean & user-focused digital products
 </h3>
 
 <p align="center">
@@ -19,25 +19,27 @@ Frontend-leaning Full-Stack Developer building scalable, clean & user-centric di
 
 ## 👨‍💻 About Me
 
-I’m a **Frontend-focused Full-Stack Developer** who enjoys transforming ideas into **polished, scalable, and high-performance web applications**.  
-I care deeply about **UI clarity, maintainable code, and real-world usability**.
+I’m a **Frontend-focused Full-Stack Developer** who enjoys turning ideas into  
+**polished, scalable, and high-performance web applications**.
 
-- 🔭 Currently building **modern web apps, dashboards & SaaS-style products**
-- 🧠 Strong at **component-driven UI, app architecture & performance**
+I care deeply about **UI clarity, clean architecture, and real-world usability**.
+
+- 🔭 Building **modern web apps, dashboards & SaaS-style products**
+- 🧠 Strong in **component-driven UI, performance & maintainable code**
 - 🛠️ Daily tech stack:  
   `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `SQL`
-- 💬 Ask me about **React/Next.js, APIs, authentication, UI polish**
+- 💬 Ask me about **React / Next.js apps, APIs, authentication & UI polish**
 - 📫 Reach me at **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
 - ⚡ Fun fact: I treat **code like design** — simplicity always wins 🎨
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I Build
 
 - ⚙️ **Next.js applications** with clean architecture
-- 🔐 Authentication systems (JWT, role-based access)
+- 🔐 Secure authentication systems (JWT, role-based access)
 - 📊 Admin dashboards & analytics panels
-- 🎨 Improving UI/UX through spacing, motion & responsiveness
+- 🎨 Responsive, accessible & user-friendly interfaces
 
 ---
 
@@ -53,12 +55,12 @@ I care deeply about **UI clarity, maintainable code, and real-world usability**.
 
 | Project | Description | Tech |
 |-------|-------------|------|
-| 🔐 **SecureLogin** | Authentication system with OTP, JWT & role-based access | Node.js, MongoDB |
+| 🔐 **SecureLogin** | Auth system with OTP, JWT & role-based access | Node.js, MongoDB |
 | 🤖 **PromptGPT Tools** | AI prompt experiments & intelligent workflows | Python, OpenAI |
 | 📊 **DashboardPro** | Analytics dashboard with charts & live metrics | React, Chart.js |
 | 🌐 **PortfolioX** | Responsive portfolio with animations & clean UX | HTML, CSS, Bootstrap |
 
-> 📌 *Pinned repositories showcase production-ready code and real-world problem solving.*
+> 📌 *Pinned repositories reflect real-world problem solving and production-ready code.*
 
 ---
 
@@ -70,12 +72,22 @@ I care deeply about **UI clarity, maintainable code, and real-world usability**.
 
 ---
 
-## 🧠 Currently Learning & Improving
+## 🧠 Currently Improving
 
 - Advanced **Next.js (App Router, SSR, performance)**
 - Clean frontend architecture patterns
 - Better API design & error handling
-- Writing **clear READMEs & documentation**
+- Writing **clear documentation & READMEs**
+
+---
+
+## 🧭 Open to Opportunities
+
+- Frontend Developer (React / Next.js)
+- Frontend-heavy Full-Stack roles
+- Product-focused development teams
+
+📫 If you’re building something meaningful, let’s connect.
 
 ---
 
@@ -92,15 +104,6 @@ I care deeply about **UI clarity, maintainable code, and real-world usability**.
     <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ Personal Values
-
-- ✅ Clean, readable & maintainable code  
-- ✅ User-first thinking  
-- ✅ Continuous learning  
-- ✅ Consistency over hype  
 
 ---
 
