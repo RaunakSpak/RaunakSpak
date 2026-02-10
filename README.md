@@ -97,7 +97,7 @@ I care deeply about **UI clarity, clean architecture, and real-world usability**
   <a href="https://linkedin.com/in/raunak-vish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Raunak%20V-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://raunak-proftfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:raunakvishwakarma2975941@gmail.com">
