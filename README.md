@@ -117,21 +117,21 @@ const raunak = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
- 
+
 [![trophy](https://github-trophies.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
 </div>
 
-
+---
 
 ## 📈 Activity Graph
 
