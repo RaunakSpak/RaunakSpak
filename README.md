@@ -130,7 +130,8 @@ const raunak = {
 [![trophy](https://github-trophies.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
----
+
+
 
 ## 📈 Activity Graph
 
