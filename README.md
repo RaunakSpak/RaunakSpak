@@ -1,111 +1,199 @@
-<h1 align="center">Hi 👋, I'm Raunak V</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend-leaning Full-Stack Developer building scalable, clean & user-focused digital products
-</h3>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     ██████╗  █████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗  ██╗        ║
+║     ██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝        ║
+║     ██████╔╝███████║██║   ██║██╔██╗ ██║███████║█████╔╝         ║
+║     ██╔══██╗██╔══██║██║   ██║██║╚██╗██║██╔══██║██╔═██╗         ║
+║     ██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║██║  ██╗        ║
+║     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+Engineer;Full-Stack+Developer;Building+Real-World+Products;Always+Learning+%26+Improving" 
-    alt="Typing SVG"
-  />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
----
+# ⚡ Raunak Vishwakarma
 
-## 👨‍💻 About Me
+### `< Frontend-Leaning Full-Stack Developer />`
 
-I’m a **Frontend-focused Full-Stack Developer** who enjoys turning ideas into  
-**polished, scalable, and high-performance web applications**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+%26+clean+web+products+🚀;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+pixel-perfect+reality+✨;Code+is+design+—+simplicity+always+wins+🎨" alt="Typing SVG" />
 
-I care deeply about **UI clarity, clean architecture, and real-world usability**.
+<br/>
 
-- 🔭 Building **modern web apps, dashboards & SaaS-style products**
-- 🧠 Strong in **component-driven UI, performance & maintainable code**
-- 🛠️ Daily tech stack:  
-  `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `SQL`
-- 💬 Ask me about **React / Next.js apps, APIs, authentication & UI polish**
-- 📫 Reach me at **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
-- ⚡ Fun fact: I treat **code like design** — simplicity always wins 🎨
+[![Profile Views](https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile+Views&color=00d9ff&style=for-the-badge)](https://github.com/RaunakSpak)
+[![GitHub followers](https://img.shields.io/github/followers/RaunakSpak?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/RaunakSpak?tab=followers)
+[![Stars](https://img.shields.io/github/stars/RaunakSpak?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117)](https://github.com/RaunakSpak?tab=stars)
 
----
-
-## 🚀 What I Build
-
-- ⚙️ **Next.js applications** with clean architecture
-- 🔐 Secure authentication systems (JWT, role-based access)
-- 📊 Admin dashboards & analytics panels
-- 🎨 Responsive, accessible & user-friendly interfaces
+</div>
 
 ---
 
-## 🧰 Tech Stack & Tools
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,bootstrap,react,nextjs,nodejs,express,mysql,mongodb,git,github,vscode" />
-</p>
+## 🧑‍💻 About Me
 
----
+```javascript
+const raunak = {
+  name     : "Raunak Vishwakarma",
+  alias    : "RaunakSpak",
+  role     : "Full-Stack Developer",
+  location : "📍 Mumbai, Maharashtra 🇮🇳",
+  company  : "⚡ SpakComm Private Ltd.",
+  focus    : ["React", "Next.js", "Node.js"],
+  philosophy: "Code like a designer. Ship like an engineer.",
+  funFact  : "Simplicity always wins 🎨"
+};
+```
 
-## 📂 Featured Projects
+- 🔭 Building **modern web apps, dashboards & SaaS products**
+- 🧠 Strong in **component-driven UI, performance & clean architecture**
+- 🔐 Secure auth systems: **JWT, OTP & role-based access**
+- 📫 Reach me at **raunakvishwakarma2975941@gmail.com**
+- ⚡ I treat **code like design** — because UI clarity matters
 
-| Project | Description | Tech |
-|-------|-------------|------|
-| 🔐 **SecureLogin** | Auth system with OTP, JWT & role-based access | Node.js, MongoDB |
-| 🤖 **PromptGPT Tools** | AI prompt experiments & intelligent workflows | Python, OpenAI |
-| 📊 **DashboardPro** | Analytics dashboard with charts & live metrics | React, Chart.js |
-| 🌐 **PortfolioX** | Responsive portfolio with animations & clean UX | HTML, CSS, Bootstrap |
-
-> 📌 *Pinned repositories reflect real-world problem solving and production-ready code.*
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakSpak&theme=github_dark" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🧠 Currently Improving
+## 🛠️ Tech Stack
 
-- Advanced **Next.js (App Router, SSR, performance)**
-- Clean frontend architecture patterns
-- Better API design & error handling
-- Writing **clear documentation & READMEs**
+<div align="center">
 
----
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🧭 Open to Opportunities
+### ⚙️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Frontend Developer (React / Next.js)
-- Frontend-heavy Full-Stack roles
-- Product-focused development teams
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-📫 If you’re building something meaningful, let’s connect.
-
----
-
-## 🤝 Let’s Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/raunak-vish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Raunak%20V-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://raunak-proftfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:raunakvishwakarma2975941@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-⭐️ **Curious by nature. Consistent by habit.  
-Let’s build products people genuinely enjoy using.**
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🔧 Stack |
+|:---:|:---:|:---:|
+| 🔐 **SecureLogin** | Auth system with OTP, JWT & role-based access | `Node.js` `MongoDB` `JWT` |
+| 🤖 **PromptGPT Tools** | AI prompt experiments & intelligent workflows | `Python` `OpenAI API` |
+| 📊 **DashboardPro** | Analytics dashboard with charts & live metrics | `React` `Chart.js` |
+| 🌐 **PortfolioX** | Responsive portfolio with animations & clean UX | `HTML` `CSS` `Bootstrap` |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Raunak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧠 Currently Leveling Up
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  Next.js App Router & SSR      90%
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Clean Frontend Architecture    80%
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░  API Design & Error Handling    70%
+▓▓▓▓▓▓▓▓▓░░░░░░░░  Writing Clear Documentation    60%
+```
+
+---
+
+## 🎯 Open To
+
+<div align="center">
+
+| 💼 Role | 🔍 What I Bring |
+|:---:|:---:|
+| Frontend Developer (React/Next.js) | Clean, scalable UI architecture |
+| Frontend-Heavy Full-Stack | End-to-end product thinking |
+| Product-Focused Teams | Real-world problem solving |
+
+> 📫 **If you're building something meaningful, let's connect.**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raunak%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raunak-proftfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakvishwakarma2975941@gmail.com)
+[![SpakComm](https://img.shields.io/badge/Company-SpakComm-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=white)](http://spakcomm.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   ⭐ Curious by nature. Consistent by habit.          ║
+║   🚀 Building products people genuinely enjoy.       ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&animation=twinkling" />
+
+</div>
