@@ -1,260 +1,284 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a1a3e,70:2d1b69,100:0D0D1A&height=220&section=header&text=Raunak%20Spak&fontSize=64&fontColor=E8DEFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20MongoDB&descAlignY=62&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,40:0a1628,70:001f3f,100:0D0D1A&height=220&section=header&text=Raunak%20Vishwakarma&fontSize=58&fontColor=00D9FF&fontAlignY=40&desc=Frontend-Leaning%20Full-Stack%20Developer%20%E2%80%94%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descSize=16&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3800&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+production-grade+full-stack+apps+%F0%9F%9A%80;1%2B+years+shipping+real+products+with+real+users;React+%2B+Next.js+%2B+Node.js+%2B+TypeScript+%2B+MongoDB;Open+to+hire+%26+collaboration+%E2%80%94+let%27s+build+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+%26+clean+web+products+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Code+like+a+designer.+Ship+like+an+engineer.+%F0%9F%8E%A8;Open+to+hire+%26+collaboration+%E2%80%94+let%27s+build+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=7C3AED&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=00D9FF&style=flat-square)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/RaunakSpak?label=Followers&style=flat-square&color=7C3AED&labelColor=1a1a2e)](https://github.com/RaunakSpak?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/RaunakSpak?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117)](https://github.com/RaunakSpak?tab=followers)
 &nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/RaunakSpak?label=Stars%20Earned&style=flat-square&color=7C3AED&labelColor=1a1a2e)](https://github.com/RaunakSpak)
+[![GitHub stars](https://img.shields.io/github/stars/RaunakSpak?label=Stars%20Earned&style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/RaunakSpak)
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Raunak Spak
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Full Stack Developer with **1–2 years of professional experience** building and shipping end-to-end web applications. I work across the entire stack — from crafting responsive, accessible UIs in React and Next.js, to designing and deploying RESTful APIs in Node.js with MongoDB.
+## 🧑‍💻 About Me
 
-I care deeply about **code quality, scalable architecture, and developer experience**. I don't just make things work — I make them maintainable, readable, and fast.
-
-Currently open to **new roles and exciting collaborations**. If you're building something meaningful, let's talk.
-
+```javascript
+const raunak = {
+  name     : "Raunak Vishwakarma",
+  alias    : "RaunakSpak",
+  role     : "Frontend-Leaning Full-Stack Dev",
+  location : "📍 Mumbai, Maharashtra 🇮🇳",
+  company  : "⚡ SpakComm Private Ltd.",
+  stack    : ["React", "Next.js", "Node.js",
+              "TypeScript", "MongoDB"],
+  building : "🎬 Moviu — a full-stack movie platform",
+  philosophy: "Code like a designer. Ship like an engineer.",
+  funFact  : "Simplicity always wins. 🎨",
+};
 ```
-💼  Full Stack Developer  |  1–2 yrs professional XP
-⚙️  React · Next.js · TypeScript · Node.js · MongoDB
-🎯  Building: scalable apps · clean APIs · great UX
-📍  India 🇮🇳
-📬  YOUR_EMAIL@gmail.com          ← add your email
-🌐  your-portfolio.dev            ← add your portfolio
-```
+
+- 🏢 Working at **[SpakComm Private Ltd.](http://spakcomm.com)**
+- 🎬 Creator of **[Moviu](https://moviu.app)** — a full-stack movie discovery platform
+- 🧠 Strong in **component-driven UI, Next.js App Router & clean architecture**
+- 🔐 Built real auth: **JWT, OTP verification & role-based access**
+- 🌐 Portfolio → **[raunak-proftfolio.vercel.app](https://raunak-proftfolio.vercel.app/)**
+- 📬 Email → **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
+
+<br clear="right"/>
 
 ---
 
-## 🔗 Find Me Online
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_ID)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raunak%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakvishwakarma2975941@gmail.com)
+[![SpakComm](https://img.shields.io/badge/Company-SpakComm-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](http://spakcomm.com)
+[![Moviu](https://img.shields.io/badge/Live%20App-Moviu-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://moviu.app)
 
 </div>
 
-> 💡 **Recruiters:** I'm open to **Full Stack, Frontend, and Backend roles**. My LinkedIn has my full work history — let's connect!
-
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+**🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Database**
+**⚙️ Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
 
-**Dev Tools & Workflow**
+**🧰 Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman,figma&theme=dark" />
-
----
-
-## 💼 What I Actually Do
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🖥️ Frontend Engineering**
-```
-▸ React 18 with hooks, custom hooks,
-  performance patterns
-▸ Next.js 14 — App Router, SSR, SSG,
-  ISR, Server Components
-▸ TypeScript — strict, no any shortcuts
-▸ Tailwind CSS + shadcn/ui component
-  systems
-▸ State: Zustand, Redux Toolkit,
-  React Query for server state
-▸ Framer Motion for fluid animations
-▸ Accessible, responsive, mobile-first
-  UI by default
-```
-
-</td>
-<td valign="top" width="50%">
-
-**⚙️ Backend & APIs**
-```
-▸ Node.js + Express — REST APIs
-  built for scale, not just demos
-▸ MongoDB with Mongoose — schema
-  design, aggregations, indexing
-▸ PostgreSQL + Prisma ORM
-▸ JWT + Refresh Tokens, NextAuth.js,
-  OAuth 2.0 flows
-▸ Real-time: Socket.io, Server-Sent
-  Events
-▸ Input validation, error middleware,
-  rate limiting, security headers
-```
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**📐 Architecture & Practices**
-```
-▸ Feature-based folder structure
-▸ SOLID principles, clean separation
-  of concerns
-▸ Git — conventional commits,
-  PR reviews, branch strategies
-▸ Environment configs, .env handling,
-  secrets management
-▸ Basic Docker containerisation
-▸ CI/CD with GitHub Actions
-```
-
-</td>
-<td valign="top" width="50%">
-
-**🚀 Growing Into**
-```
-▸ System Design — HLD & LLD
-▸ DSA — consistent LeetCode grind
-▸ Cloud: AWS EC2, S3, Lambda basics
-▸ Microservices & event-driven
-  architecture
-▸ GraphQL + Apollo Server
-▸ Testing: Vitest, Playwright E2E
-```
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-> Real projects. Real decisions. Real trade-offs.
-
-### 🔥 Project One — *[Your Project Name]*
-> *[One compelling sentence about what it does and who it's for]*
-> e.g. "A real-time team task manager — drag-and-drop boards, live updates, workspace roles."
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-| | |
-|---|---|
-| **Problem** | *What real user pain does this solve?* |
-| **Key decisions** | *e.g. Used SSR for SEO, Socket.io for real-time sync, JWT refresh rotation for auth* |
-| **Result** | *e.g. 400+ active users · sub-1s load · 99.8% uptime on Vercel* |
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo%20↗-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/YOUR-REPO-1)
+> Real products. Live on the internet. Real users.
 
 ---
 
-### ⚡ Project Two — *[Your Project Name]*
-> *[One compelling sentence about what it does and who it's for]*
-> e.g. "Full-featured e-commerce platform — product catalogue, Stripe payments, admin dashboard."
+### 🎬 Moviu — Full-Stack Movie Discovery Platform
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+> **A complete, multi-service movie platform** built from scratch — live frontend, dedicated backend API, and a standalone scraper service. Three repos. One product.
 
-| | |
-|---|---|
-| **Problem** | *What real user pain does this solve?* |
-| **Key decisions** | *e.g. ISR for product pages (SEO + freshness), Stripe webhooks for payment reliability* |
-| **Result** | *e.g. LCP under 1.4s · CLS 0 · handles 1,200+ products without pagination jank* |
+<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo%20↗-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/YOUR-REPO-2)
+[![moviu.app](https://img.shields.io/badge/🌐%20Live%20App-moviu.app-FFD700?style=for-the-badge)](https://moviu.app)
+[![Backend Dashboard](https://img.shields.io/badge/⚙️%20Backend-Dashboard-00D9FF?style=for-the-badge)](https://moviu-backend.vercel.app/dashboard)
+[![Scraper](https://img.shields.io/badge/🕷️%20Scraper-Service-7C3AED?style=for-the-badge)](https://moviu-scraper.vercel.app/)
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎬 moviu.app** — Main Web App
+
+```
+Framework  Next.js (App Router)
+Language   TypeScript / JavaScript
+Styling    Tailwind CSS + shadcn/ui
+State      Context API + Hooks
+Structure  app · components
+           constants · context
+           data · hooks · lib
+           plugins · services · utils
+Config     next.config.js
+           tailwind.config.js
+           components.json
+```
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Backend** — API + Dashboard
+
+```
+Runtime    Node.js
+Framework  Express.js
+Serves     REST API + HTML dashboard
+Structure  api · data · scripts
+           src · config.js
+           server.js (6KB)
+           scraper.js (4KB)
+Infra      Vercel serverless
+Env        .env config
+```
+</td>
+<td width="33%" valign="top">
+
+**🕷️ Scraper** — Data Pipeline
+
+```
+Framework  React + Vite
+Language   TypeScript
+Styling    Tailwind CSS
+Linting    ESLint + Prettier
+Structure  src · public · dist
+Config     vite.config.ts
+           tsconfig.json
+           tsconfig.node.json
+           postcss.config
+```
+</td>
+</tr>
+</table>
+
+**What makes it interesting:**
+- 🏗️ **Microservice mindset** — frontend, backend, and scraper are independently deployed services
+- 🔄 **Scraper pipeline** collects movie data and feeds it to the backend API consumed by the main app
+- 🎨 **shadcn/ui component system** — consistent, accessible design across the app
+- 📁 **Clean Next.js architecture** — services layer, custom hooks, context, constants all separated
 
 ---
 
-### 🎯 Project Three — *[Your Project Name]*
-> *[One compelling sentence about what it does and who it's for]*
-> e.g. "Production REST API — full auth, rate limiting, role-based access, Docker + CI/CD."
+### 🔐 SecureLogin — Auth System
+
+> Full authentication system with OTP verification, JWT access/refresh tokens and role-based access control.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-| | |
-|---|---|
-| **Problem** | *What real user pain does this solve?* |
-| **Key decisions** | *e.g. bcrypt + JWT refresh, Redis sliding-window rate limiter, Helmet.js, GitHub Actions CI* |
-| **Result** | *e.g. Zero auth incidents · 200ms avg response · automated deploy pipeline* |
+- 🔑 JWT + refresh token rotation — no session storage, stateless by design
+- 📱 OTP via email — time-bound, single-use, rate-limited
+- 🛡️ Role-based access — admin / user route protection middleware
+- ⚡ Bcrypt password hashing, Helmet.js security headers
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/YOUR-REPO-3)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak)
+
+---
+
+### 📊 DashboardPro — Analytics Dashboard
+
+> Real-time analytics dashboard with interactive charts, live metric cards and responsive layout.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- 📈 Bar, line, pie charts with Chart.js — fully responsive
+- 🃏 Live metric cards — total users, revenue, sessions, bounce rate
+- 🌗 Dark/light mode toggle
+- 🧩 Component-driven — each widget is independently reusable
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak)
+
+---
+
+### 🌐 PortfolioX — Personal Portfolio
+
+> Fully responsive personal portfolio with smooth animations, project showcase and contact form.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+- ✨ Scroll-triggered animations — AOS library
+- 📱 Mobile-first responsive layout
+- 📬 Functional contact form
+- ⚡ Zero frameworks — pure semantic HTML/CSS/JS
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-raunak--proftfolio.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
+
+---
 
 <div align="center">
 
-[**→ Browse all my repositories**](https://github.com/RaunakSpak?tab=repositories)
+[**→ Browse all repositories**](https://github.com/RaunakSpak?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=7C3AED" />
+<img height="178" src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=c9d1d9" />
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaunakSpak&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=666688&currStreakNum=ffffff&sideNums=e2d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=666688&currStreakNum=ffffff&sideNums=e2f7ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=darkhub&column=7&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Raunak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=F97316&area=true&area_color=7C3AED&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raunak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 My Contributions, Devoured
 
 <div align="center">
 
@@ -263,62 +287,44 @@ Currently open to **new roles and exciting collaborations**. If you're building 
     srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation"
-    src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg"
-    width="100%" />
+  <img alt="contribution snake animation" width="100%"
+    src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🧩 In My Own Words
+## 🧠 Currently Levelling Up
 
-```typescript
-const raunak: Developer = {
-  name:        "Raunak Spak",
-  title:       "Full Stack Developer",
-  experience:  "1–2 years professional",
-  location:    "India 🇮🇳",
-
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "PostgreSQL"],
-    tools:     ["Git", "Docker", "Vercel", "Postman"],
-  },
-
-  strengths: [
-    "Owning features end-to-end — design to deployment",
-    "Writing TypeScript that won't haunt future-me",
-    "API design that makes frontend devs happy",
-    "Debugging production issues at unreasonable hours 🌙",
-  ],
-
-  currentlyLearning: ["System Design", "DSA", "AWS"],
-  lookingFor:        ["Hire me", "Collaborate", "Open Source"],
-
-  openTo:     "Full Stack · Frontend · Backend roles",
-  contact:    "YOUR_EMAIL@gmail.com", // ← update this
-  portfolio:  "your-portfolio.dev",   // ← update this
-};
+```
+React & Next.js App Router    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   90%
+Clean Frontend Architecture   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   80%
+TypeScript (strict mode)      ▓▓▓▓▓▓▓▓▓▓▓░░░░░   70%
+API Design & Error Handling   ▓▓▓▓▓▓▓▓▓░░░░░░░   60%
+System Design & DSA           ▓▓▓▓▓▓░░░░░░░░░░   40%
 ```
 
 ---
 
-## 💡 How I Think About Engineering
+## 🎯 Open To
 
 <div align="center">
 
-| 🎯 Ownership | 📖 Clarity | ⚡ Speed | 🔁 Iteration |
-|:---:|:---:|:---:|:---:|
-| I own the full feature, not just my slice | Code is communication — write it like someone will read it at 2am | Performance is a product decision, not a nice-to-have | Ship a version, get feedback, improve — not perfect upfront |
+| 💼 Role | 🔍 What I Bring |
+|:---|:---|
+| **Frontend Developer** (React / Next.js) | Clean, scalable, accessible UI architecture |
+| **Frontend-Heavy Full-Stack** | End-to-end product ownership — design to deploy |
+| **Product-Focused Teams** | Real-world problem solving, shipping fast |
+| **Open Source Collaboration** | Clean code, good PRs, consistent commits |
+
+> 📫 **If you're building something meaningful — [let's talk](mailto:raunakvishwakarma2975941@gmail.com).**
 
 </div>
 
 ---
 
-## 💭 Today's Dev Quote
+## 💭 Dev Quote of the Day
 
 <div align="center">
 
@@ -330,119 +336,83 @@ const raunak: Developer = {
 
 <div align="center">
 
-**Open to hire · Open to collaborate · Let's build something real**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ⭐  Curious by nature. Consistent by habit.                ║
+║   🚀  Building products people genuinely enjoy.             ║
+║   🎬  Currently: Moviu — a full-stack movie platform.       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-[![Let's connect on LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20Let%27s%20connect%20%E2%80%94%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)
 &nbsp;
-[![See my work](https://img.shields.io/badge/%F0%9F%8C%9F%20See%20my%20work%20%E2%80%94%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
 &nbsp;
-[![Email me](https://img.shields.io/badge/%F0%9F%93%AC%20Email%20me%20%E2%80%94%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakvishwakarma2975941@gmail.com)
+&nbsp;
+[![SpakComm](https://img.shields.io/badge/SpakComm-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](http://spakcomm.com)
 
 <br/>
 
-*If you're building something worth using — I want to help build it.*
+*Thanks for visiting — if something here resonated, drop me a message.* 🙌
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1a3e,100:0D0D1A&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0a1628,100:0D0D1A&height=120&section=footer&animation=fadeIn" />
 
 ---
 
 <!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  FINAL SETUP — 7 STEPS, ~15 MINUTES TOTAL
-  DELETE THIS ENTIRE COMMENT BLOCK BEFORE PUBLISHING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ONE-TIME SETUP — ~10 MINUTES
+  DELETE THIS BLOCK BEFORE PUBLISHING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-STEP 1 — REPLACE 5 PLACEHOLDERS (Ctrl+F each one)
+✅ STEP 1 — ADD SOURCE CODE LINKS FOR YOUR PROJECTS
+   There are 3 "Source Code" buttons in the project section.
+   Replace the placeholder href with your real repo URLs:
+   https://github.com/RaunakSpak/YOUR-REPO-NAME
 
-  YOUR_LINKEDIN_USERNAME  →  your LinkedIn profile slug
-                             e.g. linkedin.com/in/raunak-spak → "raunak-spak"
+✅ STEP 2 — ADD LINKS FOR SECURELOGIN & DASHBOARDPRO
+   If they have live demos, update the button URLs.
+   If they're private, remove the Live Demo button.
 
-  YOUR_HANDLE             →  your Twitter / X username (no @)
+✅ STEP 3 — ACTIVATE THE SNAKE ANIMATION 🐍
+   a) RaunakSpak repo → Settings → Actions → General
+      → "Read and write permissions" → Save
+   b) Create: .github/workflows/snake.yml
 
-  YOUR_EMAIL@gmail.com    →  your real email address
+      name: Snake Animation
+      on:
+        schedule:
+          - cron: "0 0 * * *"
+        workflow_dispatch:
+      jobs:
+        generate:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: Platane/snk/svg-only@v3
+              with:
+                github_user_name: ${{ github.repository_owner }}
+                outputs: |
+                  dist/github-contribution-grid-snake.svg
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            - uses: crazy-max/ghaction-github-pages@v3.1.0
+              with:
+                target_branch: output
+                build_dir: dist
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  your-portfolio.dev      →  your portfolio / personal site URL
+   c) Actions tab → "Snake Animation" → "Run workflow"
+   d) Wait ~60s → refresh your profile 🎉
 
-  YOUR_ID                 →  your LeetCode username
+✅ STEP 4 — PIN YOUR 6 BEST REPOS
+   Profile page → "Customize your pins"
+   Recommended pins: moviu website, moviu backend,
+   moviu scraper, SecureLogin, DashboardPro, PortfolioX
 
-
-STEP 2 — ADD YOUR 3 REAL PROJECTS
-  In each of the 3 project sections, replace:
-  • The heading name (e.g. "Project One — [Your Project Name]")
-  • The blockquote tagline
-  • The tech badge row (keep only what you actually used)
-  • The table rows: Problem / Key decisions / Result
-  • The Live Demo and Source Code button links
-  Pro tip: The "Key decisions" row is what makes recruiters stop scrolling.
-  Don't just list tech — say WHY you chose it.
-
-
-STEP 3 — UPDATE THE TYPESCRIPT OBJECT
-  In the "In My Own Words" section, update:
-  • contact:   your real email
-  • portfolio: your real portfolio URL
-  Optional: tweak the strengths[] array with your own honest strengths.
-
-
-STEP 4 — ACTIVATE THE SNAKE ANIMATION 🐍
-  (Worth doing — it genuinely impresses visitors)
-
-  a) In your RaunakSpak repo:
-     Settings → Actions → General
-     → Workflow permissions → "Read and write permissions" → Save
-
-  b) Create: .github/workflows/snake.yml with:
-
-     name: Snake Animation
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: ${{ github.repository_owner }}
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  c) Go to Actions tab → "Snake Animation" → "Run workflow"
-  d) Wait ~60 seconds → your snake is live!
-
-
-STEP 5 — PIN YOUR BEST REPOS
-  Your profile page → "Customize your pins" → pick your 6 best repos
-  These appear ABOVE the README — make them the first thing people see.
-  Rule: only pin repos with a good README and ideally a live demo link.
-
-
-STEP 6 — CUSTOMISE YOUR TECH ICONS
-  The skillicons.dev icons show only technologies you claim to know.
-  Edit the ?i= parameter — use only real skills.
-  Full list: https://skillicons.dev
-  Format: ?i=react,nextjs,ts,nodejs,mongodb   (comma-separated, no spaces)
-
-
-STEP 7 — VERIFY EVERYTHING LOOKS GOOD
-  After publishing, check:
-  ✓ All stat cards load (may take a few minutes first time)
-  ✓ Streak card loads (uses demolab.com — should be instant)
-  ✓ Trophies appear (trophy.vercel.app — refresh if slow)
-  ✓ Activity graph loads
-  ✓ Typing SVG animates
-  ✓ All social badge links go to the right places
-  ✓ Snake animation works (after you run the workflow)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
