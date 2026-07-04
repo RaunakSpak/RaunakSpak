@@ -40,7 +40,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_details: percentage
 
-  achievements-metrics:
+ achievements-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
