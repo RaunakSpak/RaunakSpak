@@ -255,8 +255,11 @@ Config      vite.config.ts
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+<img src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/main/metrics.svg" alt="GitHub Metrics"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/main/metrics.languages.svg" alt="Top Languages"/>
 
 <br/>
 
@@ -264,13 +267,15 @@ Config      vite.config.ts
 
 </div>
 
+> ℹ️ Stats & language cards are generated once a day by a GitHub Action and committed straight to this repo — no dependency on a live third-party server, so they won't randomly go down.
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/main/metrics.achievements.svg" alt="GitHub Achievements"/>
 
 </div>
 
@@ -280,7 +285,7 @@ Config      vite.config.ts
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF&hide_border=true" />
+<img src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/main/metrics.calendar.svg" alt="Contribution Calendar"/>
 
 </div>
 
@@ -365,3 +370,78 @@ Config      vite.config.ts
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0a1628,100:0D0D1A&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ONE-TIME SETUP — ~10 MINUTES
+  DELETE THIS BLOCK BEFORE PUBLISHING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ STEP 1 — CREATE A PERSONAL ACCESS TOKEN (for the Metrics action)
+   GitHub → Settings → Developer settings → Personal access tokens
+   → Tokens (classic) → Generate new token (classic)
+   Scopes needed: repo, read:user, read:org (optional), read:packages (optional)
+   Copy the token — you won't see it again.
+
+✅ STEP 2 — ADD THE TOKEN AS A REPO SECRET
+   RaunakSpak/RaunakSpak repo → Settings → Secrets and variables → Actions
+   → New repository secret
+   Name:  METRICS_TOKEN
+   Value: (paste the token from Step 1)
+
+✅ STEP 3 — ADD THE METRICS WORKFLOW
+   Create the file: .github/workflows/metrics.yml
+   Paste the contents of the metrics.yml file provided alongside this README.
+
+✅ STEP 4 — ENABLE WORKFLOW WRITE PERMISSIONS
+   RaunakSpak repo → Settings → Actions → General → Workflow permissions
+   → "Read and write permissions" → Save
+
+✅ STEP 5 — RUN IT ONCE MANUALLY
+   Actions tab → "Metrics" workflow → "Run workflow"
+   Wait ~1-2 minutes → refresh your profile 🎉
+   This creates metrics.svg, metrics.languages.svg, metrics.achievements.svg
+   and metrics.calendar.svg at the root of your repo, which the README
+   above already links to via raw.githubusercontent.com.
+
+✅ STEP 6 — SNAKE ANIMATION (unrelated, still needs its own setup)
+   a) RaunakSpak repo → Settings → Actions → General
+      → "Read and write permissions" → Save (same as Step 4)
+   b) Create: .github/workflows/snake.yml
+
+      name: Snake Animation
+      on:
+        schedule:
+          - cron: "0 0 * * *"
+        workflow_dispatch:
+      jobs:
+        generate:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: Platane/snk/svg-only@v3
+              with:
+                github_user_name: ${{ github.repository_owner }}
+                outputs: |
+                  dist/github-contribution-grid-snake.svg
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            - uses: crazy-max/ghaction-github-pages@v3.1.0
+              with:
+                target_branch: output
+                build_dir: dist
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   c) Actions tab → "Snake Animation" → "Run workflow"
+   d) Wait ~60s → refresh your profile 🎉
+
+✅ STEP 7 — ADD SOURCE CODE LINKS FOR YOUR PROJECTS
+   Update the SecureLogin / DashboardPro "Source Code" button URLs
+   if your actual repo names differ from what's in this README.
+
+✅ STEP 8 — PIN YOUR 6 BEST REPOS
+   Profile page → "Customize your pins"
+   Recommended pins: moviu website, moviu backend,
+   moviu scraper, SecureLogin, DashboardPro, PortfolioX
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
