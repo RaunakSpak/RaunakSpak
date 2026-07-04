@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,40:0a1628,70:001f3f,100:0D0D1A&height=220&section=header&text=Raunak%20Vishwakarma&fontSize=58&fontColor=00D9FF&fontAlignY=40&desc=Frontend-Leaning%20Full-Stack%20Developer%20%E2%80%94%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,40:0a1628,70:001f3f,100:0D0D1A&height=220&section=header&text=Raunak%20Vishwakarma&fontSize=58&fontColor=00D9FF&fontAlignY=40&desc=Frontend-Leaning%20Full-Stack%20Developer%20%E2%80%94%20Mumbai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -6,32 +6,40 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=00D9FF&style=flat-square)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/RaunakSpak?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117)](https://github.com/RaunakSpak?tab=followers)
-&nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/RaunakSpak?label=Stars%20Earned&style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/RaunakSpak)
+<img src="https://komarev.com/ghpvc/?username=RaunakSpak&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/RaunakSpak?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/RaunakSpak?label=Stars&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars"/>
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-open-to">Open To</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ```javascript
 const raunak = {
-  name     : "Raunak Vishwakarma",
-  alias    : "RaunakSpak",
-  role     : "Frontend-Leaning Full-Stack Dev",
-  location : "📍 Mumbai, Maharashtra 🇮🇳",
-  company  : "⚡ SpakComm Private Ltd.",
-  stack    : ["React", "Next.js", "Node.js",
-              "TypeScript", "MongoDB"],
-  building : "🎬 Moviu — a full-stack movie platform",
-  philosophy: "Code like a designer. Ship like an engineer.",
-  funFact  : "Simplicity always wins. 🎨",
+  name        : "Raunak Vishwakarma",
+  alias       : "RaunakSpak",
+  role        : "Frontend-Leaning Full-Stack Dev",
+  location    : "📍 Mumbai, Maharashtra, India",
+  company     : "⚡ SpakComm Private Ltd.",
+  stack       : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
+  building    : "🎬 Moviu — a full-stack movie platform",
+  philosophy  : "Code like a designer. Ship like an engineer.",
+  funFact     : "Simplicity always wins. 🎨",
 };
 ```
 
@@ -61,6 +69,8 @@ const raunak = {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **🎨 Frontend**
 
@@ -95,13 +105,13 @@ const raunak = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ---
 
 ## 🌟 Featured Projects
 
 > Real products. Live on the internet. Real users.
-
----
 
 ### 🎬 Moviu — Full-Stack Movie Discovery Platform
 
@@ -122,50 +132,53 @@ const raunak = {
 **🎬 moviu.app** — Main Web App
 
 ```
-Framework  Next.js (App Router)
-Language   TypeScript / JavaScript
-Styling    Tailwind CSS + shadcn/ui
-State      Context API + Hooks
-Structure  app · components
-           constants · context
-           data · hooks · lib
-           plugins · services · utils
-Config     next.config.js
-           tailwind.config.js
-           components.json
+Framework   Next.js (App Router)
+Language    TypeScript / JavaScript
+Styling     Tailwind CSS + shadcn/ui
+State       Context API + Hooks
+Structure   app · components
+            constants · context
+            data · hooks · lib
+            plugins · services · utils
+Config      next.config.js
+            tailwind.config.js
+            components.json
 ```
+
 </td>
 <td width="33%" valign="top">
 
 **⚙️ Backend** — API + Dashboard
 
 ```
-Runtime    Node.js
-Framework  Express.js
-Serves     REST API + HTML dashboard
-Structure  api · data · scripts
-           src · config.js
-           server.js (6KB)
-           scraper.js (4KB)
-Infra      Vercel serverless
-Env        .env config
+Runtime     Node.js
+Framework   Express.js
+Serves      REST API + HTML dashboard
+Structure   api · data · scripts
+            src · config.js
+            server.js (6KB)
+            scraper.js (4KB)
+Infra       Vercel serverless
+Env         .env config
 ```
+
 </td>
 <td width="33%" valign="top">
 
 **🕷️ Scraper** — Data Pipeline
 
 ```
-Framework  React + Vite
-Language   TypeScript
-Styling    Tailwind CSS
-Linting    ESLint + Prettier
-Structure  src · public · dist
-Config     vite.config.ts
-           tsconfig.json
-           tsconfig.node.json
-           postcss.config
+Framework   React + Vite
+Language    TypeScript
+Styling     Tailwind CSS
+Linting     ESLint + Prettier
+Structure   src · public · dist
+Config      vite.config.ts
+            tsconfig.json
+            tsconfig.node.json
+            postcss.config
 ```
+
 </td>
 </tr>
 </table>
@@ -176,7 +189,7 @@ Config     vite.config.ts
 - 🎨 **shadcn/ui component system** — consistent, accessible design across the app
 - 📁 **Clean Next.js architecture** — services layer, custom hooks, context, constants all separated
 
----
+<br/>
 
 ### 🔐 SecureLogin — Auth System
 
@@ -192,9 +205,9 @@ Config     vite.config.ts
 - 🛡️ Role-based access — admin / user route protection middleware
 - ⚡ Bcrypt password hashing, Helmet.js security headers
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/SecureLogin)
 
----
+<br/>
 
 ### 📊 DashboardPro — Analytics Dashboard
 
@@ -210,9 +223,9 @@ Config     vite.config.ts
 - 🌗 Dark/light mode toggle
 - 🧩 Component-driven — each widget is independently reusable
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/DashboardPro)
 
----
+<br/>
 
 ### 🌐 PortfolioX — Personal Portfolio
 
@@ -230,8 +243,6 @@ Config     vite.config.ts
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-raunak--proftfolio.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
 
----
-
 <div align="center">
 
 [**→ Browse all repositories**](https://github.com/RaunakSpak?tab=repositories)
@@ -245,14 +256,11 @@ Config     vite.config.ts
 <div align="center">
 
 <img height="178" src="https://github-readme-stats.vercel.app/api?username=RaunakSpak&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
-&nbsp;
 <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakSpak&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=666688&currStreakNum=ffffff&sideNums=e2f7ff)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=RaunakSpak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=666688&currStreakNum=ffffff&sideNums=e2f7ff" />
 
 </div>
 
@@ -262,7 +270,7 @@ Config     vite.config.ts
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=RaunakSpak&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -272,7 +280,7 @@ Config     vite.config.ts
 
 <div align="center">
 
-[![Raunak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaunakSpak&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF&hide_border=true" />
 
 </div>
 
@@ -283,27 +291,26 @@ Config     vite.config.ts
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" width="100%"
-    src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/RaunakSpak/RaunakSpak/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
+
+> ℹ️ This animation only appears after the one-time GitHub Action setup below is completed.
 
 ---
 
 ## 🧠 Currently Levelling Up
 
-```
-React & Next.js App Router    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   90%
-Clean Frontend Architecture   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   80%
-TypeScript (strict mode)      ▓▓▓▓▓▓▓▓▓▓▓░░░░░   70%
-API Design & Error Handling   ▓▓▓▓▓▓▓▓▓░░░░░░░   60%
-System Design & DSA           ▓▓▓▓▓▓░░░░░░░░░░   40%
-```
+| Skill | Progress |
+|:---|:---|
+| React & Next.js App Router | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 90% |
+| Clean Frontend Architecture | ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 80% |
+| TypeScript (strict mode) | ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 70% |
+| API Design & Error Handling | ▓▓▓▓▓▓▓▓▓░░░░░░░ 60% |
+| System Design & DSA | ▓▓▓▓▓▓░░░░░░░░░░ 40% |
 
 ---
 
@@ -328,7 +335,7 @@ System Design & DSA           ▓▓▓▓▓▓░░░░░░░░░░  
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -337,21 +344,18 @@ System Design & DSA           ▓▓▓▓▓▓░░░░░░░░░░  
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ⭐  Curious by nature. Consistent by habit.                ║
-║   🚀  Building products people genuinely enjoy.             ║
-║   🎬  Currently: Moviu — a full-stack movie platform.       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                             ║
+║   ⭐  Curious by nature. Consistent by habit.               ║
+║   🚀  Building products people genuinely enjoy.            ║
+║   🎬  Currently: Moviu — a full-stack movie platform.      ║
+║                                                             ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-vish)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakvishwakarma2975941@gmail.com)
-&nbsp;
 [![SpakComm](https://img.shields.io/badge/SpakComm-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](http://spakcomm.com)
 
 <br/>
@@ -360,59 +364,4 @@ System Design & DSA           ▓▓▓▓▓▓░░░░░░░░░░  
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0a1628,100:0D0D1A&height=120&section=footer&animation=fadeIn" />
-
----
-
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ONE-TIME SETUP — ~10 MINUTES
-  DELETE THIS BLOCK BEFORE PUBLISHING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅ STEP 1 — ADD SOURCE CODE LINKS FOR YOUR PROJECTS
-   There are 3 "Source Code" buttons in the project section.
-   Replace the placeholder href with your real repo URLs:
-   https://github.com/RaunakSpak/YOUR-REPO-NAME
-
-✅ STEP 2 — ADD LINKS FOR SECURELOGIN & DASHBOARDPRO
-   If they have live demos, update the button URLs.
-   If they're private, remove the Live Demo button.
-
-✅ STEP 3 — ACTIVATE THE SNAKE ANIMATION 🐍
-   a) RaunakSpak repo → Settings → Actions → General
-      → "Read and write permissions" → Save
-   b) Create: .github/workflows/snake.yml
-
-      name: Snake Animation
-      on:
-        schedule:
-          - cron: "0 0 * * *"
-        workflow_dispatch:
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: Platane/snk/svg-only@v3
-              with:
-                github_user_name: ${{ github.repository_owner }}
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v3.1.0
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   c) Actions tab → "Snake Animation" → "Run workflow"
-   d) Wait ~60s → refresh your profile 🎉
-
-✅ STEP 4 — PIN YOUR 6 BEST REPOS
-   Profile page → "Customize your pins"
-   Recommended pins: moviu website, moviu backend,
-   moviu scraper, SecureLogin, DashboardPro, PortfolioX
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0a1628,100:0D0D1A&height=120&section=footer&animation=fadeIn" width="100%"/>
