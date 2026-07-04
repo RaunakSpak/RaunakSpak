@@ -14,15 +14,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-open-to">Open To</a> •
-  <a href="#-connect-with-me">Connect</a>
-</p>
-
 ---
 
 ##  About Me
