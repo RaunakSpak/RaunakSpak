@@ -25,7 +25,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -34,27 +34,27 @@ const raunak = {
   name        : "Raunak Vishwakarma",
   alias       : "RaunakSpak",
   role        : "Frontend-Leaning Full-Stack Dev",
-  location    : "📍 Mumbai, Maharashtra, India",
-  company     : "⚡ SpakComm Private Ltd.",
+  location    : " Mumbai, Maharashtra, India",
+  company     : " SpakComm Private Ltd.",
   stack       : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
-  building    : "🎬 Moviu — a full-stack movie platform",
+  building    : " Moviu — a full-stack movie platform",
   philosophy  : "Code like a designer. Ship like an engineer.",
-  funFact     : "Simplicity always wins. 🎨",
+  funFact     : "Simplicity always wins. ",
 };
 ```
 
-- 🏢 Working at **[SpakComm Private Ltd.](http://spakcomm.com)**
-- 🎬 Creator of **[Moviu](https://moviu.app)** — a full-stack movie discovery platform
-- 🧠 Strong in **component-driven UI, Next.js App Router & clean architecture**
-- 🔐 Built real auth: **JWT, OTP verification & role-based access**
-- 🌐 Portfolio → **[raunak-proftfolio.vercel.app](https://raunak-proftfolio.vercel.app/)**
-- 📬 Email → **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
+-  Working at **[SpakComm Private Ltd.](http://spakcomm.com)**
+-  Creator of **[Moviu](https://moviu.app)** — a full-stack movie discovery platform
+-  Strong in **component-driven UI, Next.js App Router & clean architecture**
+-  Built real auth: **JWT, OTP verification & role-based access**
+-  Portfolio → **[raunak-proftfolio.vercel.app](https://raunak-proftfolio.vercel.app/)**
+-  Email → **[raunakvishwakarma2975941@gmail.com](mailto:raunakvishwakarma2975941@gmail.com)**
 
 <br clear="right"/>
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -68,11 +68,11 @@ const raunak = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-**🎨 Frontend**
+** Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,7 +86,7 @@ const raunak = {
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**⚙️ Backend & Database**
+** Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -94,7 +94,7 @@ const raunak = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
 
-**🧰 Tools & Workflow**
+** Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,11 +109,11 @@ const raunak = {
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 > Real products. Live on the internet. Real users.
 
-### 🎬 Moviu — Full-Stack Movie Discovery Platform
+###  Moviu — Full-Stack Movie Discovery Platform
 
 > **A complete, multi-service movie platform** built from scratch — live frontend, dedicated backend API, and a standalone scraper service. Three repos. One product.
 
@@ -129,7 +129,7 @@ const raunak = {
 <tr>
 <td width="33%" valign="top">
 
-**🎬 moviu.app** — Main Web App
+** moviu.app** — Main Web App
 
 ```
 Framework   Next.js (App Router)
@@ -148,7 +148,7 @@ Config      next.config.js
 </td>
 <td width="33%" valign="top">
 
-**⚙️ Backend** — API + Dashboard
+** Backend** — API + Dashboard
 
 ```
 Runtime     Node.js
@@ -165,7 +165,7 @@ Env         .env config
 </td>
 <td width="33%" valign="top">
 
-**🕷️ Scraper** — Data Pipeline
+** Scraper** — Data Pipeline
 
 ```
 Framework   React + Vite
@@ -184,14 +184,14 @@ Config      vite.config.ts
 </table>
 
 **What makes it interesting:**
-- 🏗️ **Microservice mindset** — frontend, backend, and scraper are independently deployed services
-- 🔄 **Scraper pipeline** collects movie data and feeds it to the backend API consumed by the main app
-- 🎨 **shadcn/ui component system** — consistent, accessible design across the app
-- 📁 **Clean Next.js architecture** — services layer, custom hooks, context, constants all separated
+-  **Microservice mindset** — frontend, backend, and scraper are independently deployed services
+-  **Scraper pipeline** collects movie data and feeds it to the backend API consumed by the main app
+-  **shadcn/ui component system** — consistent, accessible design across the app
+-  **Clean Next.js architecture** — services layer, custom hooks, context, constants all separated
 
 <br/>
 
-### 🔐 SecureLogin — Auth System
+###  SecureLogin — Auth System
 
 > Full authentication system with OTP verification, JWT access/refresh tokens and role-based access control.
 
@@ -200,16 +200,16 @@ Config      vite.config.ts
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- 🔑 JWT + refresh token rotation — no session storage, stateless by design
-- 📱 OTP via email — time-bound, single-use, rate-limited
-- 🛡️ Role-based access — admin / user route protection middleware
-- ⚡ Bcrypt password hashing, Helmet.js security headers
+-  JWT + refresh token rotation — no session storage, stateless by design
+-  OTP via email — time-bound, single-use, rate-limited
+-  Role-based access — admin / user route protection middleware
+-  Bcrypt password hashing, Helmet.js security headers
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/SecureLogin)
 
 <br/>
 
-### 📊 DashboardPro — Analytics Dashboard
+###  DashboardPro — Analytics Dashboard
 
 > Real-time analytics dashboard with interactive charts, live metric cards and responsive layout.
 
@@ -218,16 +218,16 @@ Config      vite.config.ts
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 📈 Bar, line, pie charts with Chart.js — fully responsive
-- 🃏 Live metric cards — total users, revenue, sessions, bounce rate
-- 🌗 Dark/light mode toggle
-- 🧩 Component-driven — each widget is independently reusable
+-  Bar, line, pie charts with Chart.js — fully responsive
+-  Live metric cards — total users, revenue, sessions, bounce rate
+-  Dark/light mode toggle
+-  Component-driven — each widget is independently reusable
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaunakSpak/DashboardPro)
 
 <br/>
 
-### 🌐 PortfolioX — Personal Portfolio
+###  PortfolioX — Personal Portfolio
 
 > Fully responsive personal portfolio with smooth animations, project showcase and contact form.
 
@@ -236,10 +236,10 @@ Config      vite.config.ts
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- ✨ Scroll-triggered animations — AOS library
-- 📱 Mobile-first responsive layout
-- 📬 Functional contact form
-- ⚡ Zero frameworks — pure semantic HTML/CSS/JS
+-  Scroll-triggered animations — AOS library
+-  Mobile-first responsive layout
+-  Functional contact form
+-  Zero frameworks — pure semantic HTML/CSS/JS
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-raunak--proftfolio.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://raunak-proftfolio.vercel.app/)
 
@@ -251,7 +251,7 @@ Config      vite.config.ts
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -267,11 +267,10 @@ Config      vite.config.ts
 
 </div>
 
-> ℹ️ Stats & language cards are generated once a day by a GitHub Action and committed straight to this repo — no dependency on a live third-party server, so they won't randomly go down.
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -281,7 +280,7 @@ Config      vite.config.ts
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -291,7 +290,7 @@ Config      vite.config.ts
 
 ---
 
-## 🐍 My Contributions, Devoured
+##  My Contributions, Devoured
 
 <div align="center">
 
@@ -303,11 +302,11 @@ Config      vite.config.ts
 
 </div>
 
-> ℹ️ This animation only appears after the one-time GitHub Action setup below is completed.
+
 
 ---
 
-## 🧠 Currently Levelling Up
+##  Currently Levelling Up
 
 | Skill | Progress |
 |:---|:---|
@@ -319,24 +318,24 @@ Config      vite.config.ts
 
 ---
 
-## 🎯 Open To
+##  Open To
 
 <div align="center">
 
-| 💼 Role | 🔍 What I Bring |
+|  Role |  What I Bring |
 |:---|:---|
 | **Frontend Developer** (React / Next.js) | Clean, scalable, accessible UI architecture |
 | **Frontend-Heavy Full-Stack** | End-to-end product ownership — design to deploy |
 | **Product-Focused Teams** | Real-world problem solving, shipping fast |
 | **Open Source Collaboration** | Clean code, good PRs, consistent commits |
 
-> 📫 **If you're building something meaningful — [let's talk](mailto:raunakvishwakarma2975941@gmail.com).**
+>  **If you're building something meaningful — [let's talk](mailto:raunakvishwakarma2975941@gmail.com).**
 
 </div>
 
 ---
 
-## 💭 Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
 
@@ -351,9 +350,9 @@ Config      vite.config.ts
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                             ║
-║   ⭐  Curious by nature. Consistent by habit.               ║
-║   🚀  Building products people genuinely enjoy.            ║
-║   🎬  Currently: Moviu — a full-stack movie platform.      ║
+║    Curious by nature. Consistent by habit.               ║
+║    Building products people genuinely enjoy.            ║
+║    Currently: Moviu — a full-stack movie platform.      ║
 ║                                                             ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -365,7 +364,7 @@ Config      vite.config.ts
 
 <br/>
 
-*Thanks for visiting — if something here resonated, drop me a message.* 🙌
+*Thanks for visiting — if something here resonated, drop me a message.* 
 
 </div>
 
