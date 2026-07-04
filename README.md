@@ -391,7 +391,77 @@ Config      vite.config.ts
 
 ✅ STEP 3 — ADD THE METRICS WORKFLOW
    Create the file: .github/workflows/metrics.yml
-   Paste the contents of the metrics.yml file provided alongside this README.
+   Paste this in:
+
+      name: Metrics
+
+      on:
+        schedule:
+          - cron: "0 0 * * *"
+        workflow_dispatch:
+
+      permissions:
+        contents: write
+
+      jobs:
+        base-metrics:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                filename: metrics.svg
+                token: ${{ secrets.METRICS_TOKEN }}
+                user: RaunakSpak
+                template: classic
+                base: header, activity, community, repositories, metadata
+                config_timezone: Asia/Kolkata
+                config_display: large
+
+        languages-metrics:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                filename: metrics.languages.svg
+                token: ${{ secrets.METRICS_TOKEN }}
+                user: RaunakSpak
+                template: classic
+                base: ""
+                plugin_languages: yes
+                plugin_languages_analysis_timezone: Asia/Kolkata
+                plugin_languages_categories: markup, programming
+                plugin_languages_recent_categories: markup, programming
+                plugin_languages_recent_load: 300
+                plugin_languages_recent_days: 14
+                plugin_languages_details: percentage
+
+        achievements-metrics:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                filename: metrics.achievements.svg
+                token: ${{ secrets.METRICS_TOKEN }}
+                user: RaunakSpak
+                template: classic
+                base: ""
+                plugin_achievements: yes
+                plugin_achievements_display: detailed
+                plugin_achievements_secrets: yes
+                plugin_achievements_threshold: C
+
+        calendar-metrics:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                filename: metrics.calendar.svg
+                token: ${{ secrets.METRICS_TOKEN }}
+                user: RaunakSpak
+                template: classic
+                base: ""
+                plugin_isocalendar: yes
+                plugin_isocalendar_duration: full-year
 
 ✅ STEP 4 — ENABLE WORKFLOW WRITE PERMISSIONS
    RaunakSpak repo → Settings → Actions → General → Workflow permissions
